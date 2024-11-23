@@ -1,0 +1,16 @@
+{
+  "name": "noughts-vs-crosses",
+  "version": "1.0.0",
+  "description": "The classic Tic-Tac-Toe game",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "@DevSl20",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.13.0",
+    "sass": "^1.81.0"
+  }
+}
